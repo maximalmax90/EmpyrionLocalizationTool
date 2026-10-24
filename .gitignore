@@ -1,0 +1,3 @@
+# `go build ./...` (no -o) writes an executable named after this
+# directory (i.e. "elt") right here — never commit it.
+/elt
